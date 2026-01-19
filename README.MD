@@ -1,5 +1,13 @@
-# HI ARCHISHA HERE!!
-## _Computer Science Engineering Student, still learning and growing._
+# Hi, I'm Archisha 
+
+## Computer Science Engineering student  
+Learning, building and growing every day.
+
+💻 Exploring **LLMs**, **data visualization**, and **applied AI**  
+⚙️ Hands-on with **CRM platforms** and declarative development  
+📚 Strengthening core CS fundamentals through projects  
+🚀 Focused on practical learning and real-world problem solving
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=dosasha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&number_format=long&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
